@@ -1,6 +1,6 @@
 <div>
   <img src="https://raw.githubusercontent.com/mindsetcloud/mindsetcloud/refs/heads/main/MINDSETCLOUD/avatar.svg" alt="Logo" width="18%" style="margin-right: 1%;"/>
-  <img src="https://github.com/nathanmsc/DATA-ENGINEERING/blob/main/DOCKER/ZABBIX/src/img/marca.svg" alt="Brand" width="80%" style="margin-left: 1%;/>
+  <img src="https://raw.githubusercontent.com/mindsetcloud/mindsetcloud/refs/heads/main/MINDSETCLOUD/logo.svg" alt="Brand" width="80%" style="margin-left: 1%;/>
 </div>
 <div align="center">
   
